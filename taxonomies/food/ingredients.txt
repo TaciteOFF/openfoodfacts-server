@@ -75423,7 +75423,7 @@ xx: za'atar
 
 < en: plant
 en: wasabi, wasabi root
-xx: wasabi
+xx: wasabi, wasabi japonica
 ar: وسابي
 bg: уасаби
 de: Wasabi
@@ -75440,7 +75440,7 @@ hu: vaszabi
 it: wasabi, rafano giapponese
 ja: ワサビ
 ko: 고추냉이
-la: Eutrema japonicum, Wasabia japonica
+la: eutrema japonicum, wasabia japonica
 ru: васаби
 th: วาซาบิ
 tr: vasabi
