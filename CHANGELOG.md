@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.102.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.102.0...v2.102.1) (2026-08-14)
+
+
+### Reverts
+
+* ci(pr_actions): deduplicate the git commit step(s) ([#14264](https://github.com/openfoodfacts/openfoodfacts-server/issues/14264)) ([99f9784](https://github.com/openfoodfacts/openfoodfacts-server/commit/99f9784f99238934992d866720c092765da8d149))
+
 ## [2.102.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.101.0...v2.102.0) (2026-08-13)
 
 
