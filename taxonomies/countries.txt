@@ -6783,7 +6783,7 @@ io: Bulgaria
 is: Búlgaría, Bulgaria
 it: Bulgaria
 ja: ブルガリア, ブルガリア国民議会, 勃牙利, ブルガリアの下院, ブルガリヤ, ブルガリア共和国, 勃
-jbo: bylgAri, bylgarias, bulgar, balgarias, Bulgaria, bulgarias
+jbo: bylgArias, bulgar, balgarias, Bulgaria, bulgarias
 jv: Bulgaria
 ka: ბულგარეთი
 kaa: Bolgariya
@@ -38200,7 +38200,7 @@ io: Slovenia
 is: Slóvenía
 it: Slovenia
 ja: スロベニア, スロヴェニア
-jbo: slovEni
+jbo: slovEnias
 jv: Slovénia
 ka: სლოვენია
 kaa: Sloveniya
